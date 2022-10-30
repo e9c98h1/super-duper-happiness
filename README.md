@@ -44,9 +44,9 @@
   
 <img src="/anh/haha.jpg"><br>
 
-<p><a href="https://gitlab.com/cqyih1n1110dj/hove/-/raw/main/18.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 大難中誰能得救？穿越古今的神話  -009fcc?logoWidth=1" title="视频: 大難中誰能得救？穿越古今的神話 "></a></p>  
-<p><a href="https://gitlab.com/09wch1n1110hd/d2d2/-/raw/main/19.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 你知道為何要退出黨，團，隊組織？   -009fcc?logoWidth=1" title="视频: 你知道為何要退出黨，團，隊組織？ "></a></p>     
-<p><a href="https://gitlab.com/baoich1n1110dh/ofu/-/raw/main/20.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 追查國際主席汪志遠：四億三退 -009fcc?logoWidth=1" title="视频: 追查國際主席汪志遠：四億三退"></a></p> 
+<p><a href="https://gitlab.com/cqyih1n1110dj/hove/-/raw/main/18.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 大难中谁能得救？ 穿越古今的神话  -009fcc?logoWidth=1" title="视频: 大难中谁能得救？ 穿越古今的神话 "></a></p>  
+<p><a href="https://gitlab.com/09wch1n1110hd/d2d2/-/raw/main/19.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 你知道为何要退出党，团，队组织   -009fcc?logoWidth=1" title="视频: 你知道为何要退出党，团，队组织 "></a></p>     
+<p><a href="https://gitlab.com/baoich1n1110dh/ofu/-/raw/main/20.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 追查国际主席汪志远：四亿三退 -009fcc?logoWidth=1" title="视频: 追查国际主席汪志远：四亿三退"></a></p> 
 .
 <img src="/anh/haha.jpg"><br>
   
